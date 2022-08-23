@@ -1,2 +1,2 @@
 # :bookmark_tabs: Notas Importantes
-:pushpin: Anotações Importantes Referentes ao Estudo na Plataforma DIO
+:pushpin: Repositório Criado Para o Estudo na Plataforma DIO
