@@ -1,2 +1,2 @@
-# Notas-Importantes
-Anotações Importantes Referentes ao Estudo na Plataforma DIO
+# :bookmark_tabs: Notas Importantes
+:pushpin: Anotações Importantes Referentes ao Estudo na Plataforma DIO
