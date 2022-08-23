@@ -1,10 +1,14 @@
-# Clonar Repositório GitHub
+## Clonar Repositório GitHub
 
 git clone + endereço https
 
-# Verificar Repositório
+## Verificar Repositório
 
 git status
+
+## Subir Repositório
+
+git push
 
 
 
